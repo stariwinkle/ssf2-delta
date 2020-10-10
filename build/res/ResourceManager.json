@@ -1,0 +1,104 @@
+{
+  "menu": {},
+  "metadata": {},
+  "character_xp": {},
+  "music": 
+  {
+	"bgm_aglimmeratop104": {
+		"file": "bgm_aglimmeratop104.ssf",
+		"guid": "49476425-f8f6-4c47-8eee-d2429c8a1218"
+	},
+	"bgm_overturetothedecisivebattle": {
+		"file": "bgm_overturetothedecisivebattle.ssf",
+		"guid": "57458ae0-7733-40a0-9546-datascape001"
+	},
+	"bgm_the13threflection": {
+		"file": "bgm_the13threflection.ssf",
+		"guid": "e076c07e-ac36-412c-8336-0327e744ac5e"
+	},
+	"bgm_sinistershadows": {
+		"file": "bgm_sinistershadows.ssf",
+		"guid": "bbaea9d7-c786-46fc-92de-e6aff66d9be5"
+	},
+	"bgm_oscuritadixehanort": {
+		"file": "bgm_oscuritadixehanort.ssf",
+		"guid": "76cd65fc-a076-4da7-9778-fcfb2142e497"
+	},
+	"bgm_darkimpetus": {
+		"file": "bgm_darkimpetus.ssf",
+		"guid": "114e020b-5045-4032-910e-c34df8240a91"
+	},
+	"bgm_leminenzaoscura": {
+		"file": "bgm_leminenzaoscura.ssf",
+		"guid": "57458ae0-7733-40a0-9546-datascape002"
+	},
+	"bgm_loscuritadellignoto": {
+		"file": "bgm_loscuritadellignoto.ssf",
+		"guid": "57458ae0-7733-40a0-9546-datascape003"
+	},
+	"bgm_the13thdilemmaxigbar": {
+		"file": "bgm_the13thdilemmaxigbar.ssf",
+		"guid": "57458ae0-7733-40a0-9546-datascape004"
+	},
+	"bgm_the13thstruggleluxord": {
+		"file": "bgm_the13thstruggleluxord.ssf",
+		"guid": "57458ae0-7733-40a0-9546-datascape005"
+	},
+	"bgm_the13thstrugglelarxene": {
+		"file": "bgm_the13thstrugglelarxene.ssf",
+		"guid": "57458ae0-7733-40a0-9546-datascape006"
+	},
+	"bgm_lordofthecastle": {
+		"file": "bgm_lordofthecastle.ssf",
+		"guid": "57458ae0-7733-40a0-9546-datascape007"
+	},
+	"bgm_the13thdilemmasaix": {
+		"file": "bgm_the13thdilemmasaix.ssf",
+		"guid": "57458ae0-7733-40a0-9546-datascape008"
+	},
+	"bgm_dismiss": {
+		"file": "bgm_dismiss.ssf",
+		"guid": "57458ae0-7733-40a0-9546-datascape009"
+	},
+	"bgm_forzedemale": {
+		"file": "bgm_forzedemale.ssf",
+		"guid": "57458ae0-7733-40a0-9546-datascape010"
+	},
+	"bgm_enterthedarkness": {
+		"file": "bgm_enterthedarkness.ssf",
+		"guid": "57458ae0-7733-40a0-9546-datascape011"
+	},
+	"bgm_limpetooscuro": {
+		"file": "bgm_limpetooscuro.ssf",
+		"guid": "57458ae0-7733-40a0-9546-datascape012"
+	},
+	"bgm_forzedelloscurita": {
+		"file": "bgm_forzedelloscurita.ssf",
+		"guid": "57458ae0-7733-40a0-9546-datascape013"
+	},
+	"bgm_tensionrising": {
+		"file": "bgm_tensionrising.ssf",
+		"guid": "57458ae0-7733-40a0-9546-datascape014"
+	},
+	"bgm_enterthedarknessbbs": {
+		"file": "bgm_enterthedarknessbbs.ssf",
+		"guid": "091678c6-f7c1-4c5f-bebb-a3f88e0c7194"
+	}
+	
+  },
+  "audio": {},
+  "stage_xp": {},
+  "character": {
+    "mario": {
+      "name": "Mario",
+      "file_pub": "DAT128.ssf",
+      "file": "mario.ssf",
+      "seriesIcon": "MarioSymbol",
+      "guid": "b4768513-c851-4f19-8c73-6f18e4f27b64"
+    }
+  },
+  "extra": {},
+  "misc": {},
+  "modes": {},
+  "stage": {}
+}
