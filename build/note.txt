@@ -1,0 +1,60 @@
+SSF2 Delta v1.1.1.1 - Change Log?
+
+WARNING: PLEASE TURN ON WORD WRAP OR ELSE YOU'LL SEE VERY LONG LINES
+
+Hi everyone. This is a note from David, the creator of this mod. I hope you're doing well.
+
+Firstly, if this is your first time playing, welcome! I'm sorry the Discord server's been so dead... it's my fault. A lot happened before you joined. Regardless, I hope you're able to find some enjoyment in the project that I and others worked on for over three years.
+
+For those of you that played prior to 1.1.1, welcome back. I have some explaining to do.
+
+NOTE: Content past this point is quite personal and won't mean anything if you don't know me. If you're new to Delta, feel free to close this file now.
+
+
+--What happened?--
+
+Okay.
+
+Some of you already know that I struggle with a few mental illnesses, specifically ADHD and depression. In 2020, I faced my toughest challenge with those illnesses yet: Dealing with my first breakup. It has been incredibly hard to deal with the reality of what happened, and due to the nature of the situation, my mental state kept getting worse and worse, even when I tried to reach out to some people about it.
+
+I got to the point where I wasn't taking care of myself, isolating from my family, not leaving my room, overeating, overspending, failing school, and most importantly, not taking the medication prescribed to me. My parents were extremely upset with me and were discussing kicking me out (I'm 19, forgot to mention that). It felt like my world was falling apart. Despite this, I kept telling myself that I was okay and that I was able to handle it. I'd gotten through worse in the past, right?
+
+Well, as it turns out, I severely underestimated how bad things were getting. I was essentially harming myself in every way I could besides literally taking a weapon and... you know. That part comes soon, though.
+
+The worst was yet to come with my self-sabatoge. My final act was to have a huge mental breakdown that lasted weeks, taking my anger and frustration out on those closest to me, destroying all of my friendships and connections I had at the time, and then threatening suicide. (The timeframe for these events is between the release of Delta v1.1 and v1.1.1, which I specified to be the final version due to certain events.) I was then placed in the hospital until mid-November. Once I came out, I realized that I couldn't keep doing this - I needed to get better.
+
+However, things didn't improve right away - I was honestly still having some of the same struggles that I did prior to the hospital visit, some of which were even increased. I was seriously fighting with myself to actually DO something for once, with purpose. 
+
+But one day, I just... snapped. It happened. I put my foot down and said "enough is enough, I'm doing this no matter what".
+
+Saying that wasn't all there was to it, though. I had to do things. So... what did I do? For starters, I began reconnecting with my family, as well as correcting my sleep schedule. I've also started taking my meds again. I've been trying to be more outgoing and meet new people. I'm trying harder at work.
+
+It's hard for me to put into words how difficult it was for me to get to the point of clarity I'm at now. But I am here. I still have occasional dark moments where I almost return to that low point - usually when I think about my breakup. But you know? I'm beginning to move on. I feel mostly good about it - I value the experience I had. Hell, I even learned something from it. In the end, the good moments outweigh the bad moments in that regard.
+
+So, not everything is perfect, but I'm seriously trying my best to start fresh and make up for what I've lost.
+
+Moral of the story: When you're at your lowest point, the worst thing you could do is push away those that care about you the most.
+
+--What now?--
+
+Well, for the most part, I'm absent from the SSF2 scene entirely, including the modding scene. I still have one server, my Adobe Animate one, where I sometimes interact with modders, but it's not nearly to the degree that I did back then.
+
+I want to keep working on myself and be the me that I wasn't able to be in the past. What does this look like? I'm not exactly sure, but as some of you may know, I'll "figure it out" eventually. ;) 
+
+I don't expect sympathy or forgiveness just because I typed out a long text file, guys. I've already apologized to everyone I hurt, it's up to them to choose to forgive me, and it's up to me to improve myself. Maybe one day in the distant future, I can return to them a much happier person. But for now, I'm gonna keep my distance and respect their wishes.
+
+As for returning to the modding community, well... no. Not right now, at least. I'm actually enjoying my time away from it - not because it sucked, but because I really don't want to get back into that "I've gotta help everyone!" mentality that I had before. It was really exhausting, even if I didn't show it.
+
+--What does this mean for SSF2 Delta?--
+
+I dunno. When I released v1.1.1, I also released the source code and gave people permission to do as they please with it. There's already at least one project that continues its development, SSF2 Delta Plus. I haven't been keeping up with it, but it does exist.
+
+As for the development of the main mod, I... still don't know. I'm only doing this patch because SO MANY people joined the server and I felt like I owed them a working version of the game. I really did plan for 1.1.1 to be the last significant update, and in my eyes, it still is. I don't have a team anymore, so it'd be hard to pick up where I left off. One thing's for sure - if I DID ever completely revitalize the project, it would have to include some 1.3 features, per the usual with my engine upgrades. Also, adding another character (Ganondorf)... Just thinking about it is giving me a headache. However, now that the public version once again works online, I may play some matches with the server or do some streams every once in a while. Why not?
+
+Anyway, I think that's enough rambling for now. If you got this far, thanks for taking the time to read this.
+
+I love you guys. Until next time. https://youtu.be/hEdEBG6GSgY
+
+
+
+David~#7791
