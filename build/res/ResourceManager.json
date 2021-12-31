@@ -83,8 +83,31 @@
 	"bgm_enterthedarknessbbs": {
 		"file": "bgm_enterthedarknessbbs.ssf",
 		"guid": "091678c6-f7c1-4c5f-bebb-a3f88e0c7194"
-	}
-	
+	},
+	"bgm_high": {
+		"file": "bgm_high.ssf",
+		"guid": "57458ae0-7733-40a0-9546-defundpolice"
+	},
+	"bgm_satinpanties": {
+		"file": "bgm_satinpanties.ssf",
+		"guid": "57458ae0-7733-40a0-9546-blcklivesmtr"
+	},
+	"bgm_gathersundernight": {
+		"guid": "f697a7d4-3528-494a-a324-2dd38d4ae059",
+		"file": "bgm_gathersundernight.ssf"
+	},
+	"bgm_yumenotsuzuki": {
+		"guid": "57458ae0-7733-40a0-yume-801a69ead164",
+		"file": "bgm_yumenotsuzuki.ssf"
+	},
+	"bgm_sanctuaryguardian": {
+		"guid": "57458ae0-7733-40a0-what-801a69ead164",
+		"file": "bgm_sanctuaryguardian.ssf"
+	},
+	"bgm_milf": {
+		"file": "bgm_milf.ssf",
+		"guid": "57458ae0-7733-40a0-9546-swagswagswag"
+	}	
   },
   "audio": {},
   "stage_xp": {},
@@ -95,7 +118,14 @@
       "file": "mario.ssf",
       "seriesIcon": "MarioSymbol",
       "guid": "b4768513-c851-4f19-8c73-6f18e4f27b64"
-    }
+	},
+	"ganondorf": {
+		"guid": "d7fd5abd-a788-4fb1-b4f2-f215f0cd387c",
+		"seriesIcon": "zeldaicon",
+		"file": "ganondorf.ssf",
+		"file_pub": "DAT225.ssf",
+		"name": "Ganondorf"
+	}
   },
   "extra": {},
   "misc": {},

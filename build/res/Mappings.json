@@ -58,9 +58,11 @@
 			"dreamland",
 			"sectorz",
 			"fourside",
+			"fourside21",
 			"castlesiege",
 			"smashville",
 			"greenhillzone",
+			"fridaynightfunkin",
 			"theworldthatneverwas",
 			"skypillar",
 			"suzakucastle",
@@ -154,9 +156,11 @@
 					"dreamland",
 					"sectorz",
 					"fourside",
+					"fourside21",
 					"castlesiege",
 					"smashville",
 					"greenhillzone",
+					"fridaynightfunkin",
 					"random"
 				]
 			]
@@ -197,6 +201,7 @@
 			"link",
 			"zelda",
 			"sheik",
+			"ganondorf",
 			"captainfalcon",
 			"pikachu",
 			"pichu",
@@ -339,7 +344,7 @@
 		"portrait_spacing": 160,
 		"position": {
 			"y": 27.5,
-			"x": -45.5
+			"x": -90.5
 		},
 		"rows": [
 			[
@@ -354,7 +359,7 @@
 				"link",
 				"zelda",
 				"sheik",
-				"captainfalcon"
+				"ganondorf"
 			],
 			[
 				"pikachu",
@@ -371,6 +376,7 @@
 				"zamus"
 			],
 			[
+				"captainfalcon",
 				"ness",
 				"marth",
 				"pit",
@@ -381,10 +387,10 @@
 				"tails",
 				"megaman",
 				"ryu",
-				"pacman",
-				"lloyd"
+				"pacman"
 			],
 			[
+				"lloyd",
 				"simon",
 				"bomberman",
 				"blackmage",
@@ -395,6 +401,8 @@
 				"naruto",
 				"ichigo",
 				"sandbag",
+				"locked1",
+				"locked2",
 				"random"
 			]
 		]
@@ -490,9 +498,11 @@
 					"dreamland",
 					"sectorz",
 					"fourside",
+					"fourside21",
 					"castlesiege",
 					"smashville",
-					"greenhillzone"
+					"greenhillzone",
+					"fridaynightfunkin"
 				]
 			]
 		},
@@ -516,7 +526,77 @@
 			]
 		}
 	},
-	"stage": {},
+	"stage": {
+		"targettest_mario": {
+			"guid": "4638e2cb-b633-4c0b-8e87-742ea4c295bb",
+			"file": "targettest_mario.ssf"
+		},
+		"targettest_lucario": {
+			"guid": "752940a4-b76b-4150-90fd-2d66d967ce7e",
+			"file": "targettest_lucario.ssf"
+		},
+		"targettest_sora": {
+			"guid": "1e5eddec-11cb-4a2a-8944-48a092d70911",
+			"file": "targettest_sora.ssf"
+		},
+		"targettest_bomberman": {
+			"guid": "5a6b7257-f4ac-487d-b0fd-8d6d94c88f26",
+			"file": "targettest_bomberman.ssf"
+		},
+		"targettest_marth": {
+			"guid": "1bd83e0c-c67e-4f3e-8c9c-124dfef486b8",
+			"file": "targettest_marth.ssf"
+		},
+		"targettest_yoshi": {
+			"guid": "a1d7f6d5-c02f-4247-a2bf-ff06020b3dc3",
+			"file": "targettest_yoshi.ssf"
+		},
+		"targettest_pikachu": {
+			"guid": "b4656fee-7ff9-47bc-ab1a-4ee99bd7b5de",
+			"file": "targettest_pikachu.ssf"
+		},
+		"targettest_megaman": {
+			"guid": "588b4b5e-04a7-46f8-8808-40b991372b91",
+			"file": "targettest_megaman.ssf"
+		},
+		"targettest_blackmage": {
+			"guid": "fa18c791-c209-4122-9dcf-3f0e643584b2",
+			"file": "targettest_blackmage.ssf"
+		},
+		"targettest_donkeykong": {
+			"guid": "59c8c084-80d9-4350-ad5e-77b1c9909659",
+			"file": "targettest_donkeykong.ssf"
+		},
+		"targettest_jigglypuff": {
+			"guid": "cc48ac81-8c3c-4710-98ea-953e51f49ee7",
+			"file": "targettest_jigglypuff.ssf"
+		},
+		"targettest_link": {
+			"guid": "e4cde24b-f8a5-4b72-a622-a888641dc945",
+			"file": "targettest_link.ssf"
+		},
+		"targettest_bandanadee": {
+			"guid": "36704879-5665-46c9-ab1d-36a33498aa89",
+			"file": "targettest_bandanadee.ssf"
+		},
+		"targettest_bowser": {
+			"guid": "21621cef-9dca-43eb-8cbf-edb2eb80912d",
+			"file": "targettest_bowser.ssf"
+		},
+		"targettest_captainfalcon": {
+			"guid": "2cec1040-ba2d-4231-af83-c43a55c6938d",
+			"file": "targettest_captainfalcon.ssf"
+		},
+		"targettest_zamus": {
+			"guid": "99982c2e-d441-48a5-b825-96d8e0e10b63",
+			"file": "targettest_zamus.ssf"
+		},
+		"fridaynightfunkin": {
+			"guid": "ad34aafc-3b94-11e6-ac61-9e71128cae77",
+			"name":"Friday Night Funkin'",
+			"file": "fridaynightfunkin.ssf"
+		}
+	},
 	"match_results_screen": {
 		"no_contest_1": {
 			"scaleY": 1.25,
