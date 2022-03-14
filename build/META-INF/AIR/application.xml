@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<application xmlns="http://ns.adobe.com/air/application/32.0">
+  <id>com.mcleodgaming.ssf2</id>
+  <versionNumber>001.310.002</versionNumber>
+  <filename>SSF2 Delta - Final Mix</filename>
+  <copyright>2022</copyright>
+  <initialWindow>
+	  <title>SSF2 Delta - Final Mix</title>
+    <content>SSF2.swf</content>
+    <systemChrome>standard</systemChrome>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <minimizable>true</minimizable>
+    <maximizable>true</maximizable>
+    <resizable>false</resizable>
+    <renderMode>auto</renderMode></initialWindow>
+
+  
+
+  
+
+  <!-- 
+	More options:
+	http://livedocs.adobe.com/flex/3/html/File_formats_1.html#1043413
+	-->
+  <name>SSF2 Delta - Final Mix</name>
+  <android>
+    <manifestAdditions><![CDATA[<manifest android:installLocation="auto" xmlns:android="http://schemas.android.com/apk/res/android" />]]></manifestAdditions>
+  </android>
+  <supportedLanguages>en</supportedLanguages>
+  <icon>
+    <image128x128>icons/128.png</image128x128>
+  </icon>
+  <supportedProfiles>extendedDesktop </supportedProfiles>
+  <versionLabel>1.3.1.2</versionLabel>
+  <description>The balancing project.</description>
+  
+  
+  <extensions>
+    <extensionID>com.iam2bam.ane.nativejoystick</extensionID>
+    <extensionID>com.rainbowcreatures.FWEncoderANE</extensionID>
+    <extensionID>fi.joniaromaa.adobeair.discordrpc</extensionID>
+  </extensions>
+</application>
